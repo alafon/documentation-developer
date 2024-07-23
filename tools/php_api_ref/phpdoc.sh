@@ -53,6 +53,7 @@ if [ 0 -eq $DXP_ALREADY_EXISTS ]; then
     cp $AUTH_JSON ./;
   fi;
   composer install --no-interaction --ignore-platform-reqs --no-scripts;
+  composer require ibexa/automated-translation
 fi;
 
 if [[ "$DXP_VERSION" == *".*"* ]]; then
