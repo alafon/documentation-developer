@@ -4371,6 +4371,31 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/Ibexa-Contracts-ConnectorPayum-Storage-PaymentQueryFactoryInterface.html#method_buildQuery"
         },                {
+            "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\Exception\\CampaignFeedNotFoundException",
+            "name": "CampaignFeedNotFoundException",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-ConnectorQualifio-Exception-CampaignFeedNotFoundException.html"
+        },                {
+            "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\Exception\\CommunicationException",
+            "name": "CommunicationException",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-ConnectorQualifio-Exception-CommunicationException.html"
+        },                {
+            "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\Exception\\NotConfiguredException",
+            "name": "NotConfiguredException",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-ConnectorQualifio-Exception-NotConfiguredException.html"
+        },                {
+            "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\Exception\\NotConfiguredException\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-ConnectorQualifio-Exception-NotConfiguredException.html#method___construct"
+        },                {
+            "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\Exception\\QualifioException",
+            "name": "QualifioException",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-ConnectorQualifio-Exception-QualifioException.html"
+        },                {
             "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\QualifioFieldMapResolverInterface",
             "name": "QualifioFieldMapResolverInterface",
             "summary": "",
@@ -47411,6 +47436,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/Ibexa-Contracts-Taxonomy-Service-Decorator-TaxonomyServiceDecorator.html#method_loadEntryById"
         },                {
+            "fqsen": "\\Ibexa\\Contracts\\Taxonomy\\Service\\Decorator\\TaxonomyServiceDecorator\u003A\u003AloadEntriesByIds\u0028\u0029",
+            "name": "loadEntriesByIds",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-Taxonomy-Service-Decorator-TaxonomyServiceDecorator.html#method_loadEntriesByIds"
+        },                {
             "fqsen": "\\Ibexa\\Contracts\\Taxonomy\\Service\\Decorator\\TaxonomyServiceDecorator\u003A\u003AloadEntryByIdentifier\u0028\u0029",
             "name": "loadEntryByIdentifier",
             "summary": "",
@@ -47525,6 +47555,11 @@ Search.appendIndex(
             "name": "loadEntryById",
             "summary": "",
             "url": "classes/Ibexa-Contracts-Taxonomy-Service-TaxonomyServiceInterface.html#method_loadEntryById"
+        },                {
+            "fqsen": "\\Ibexa\\Contracts\\Taxonomy\\Service\\TaxonomyServiceInterface\u003A\u003AloadEntriesByIds\u0028\u0029",
+            "name": "loadEntriesByIds",
+            "summary": "",
+            "url": "classes/Ibexa-Contracts-Taxonomy-Service-TaxonomyServiceInterface.html#method_loadEntriesByIds"
         },                {
             "fqsen": "\\Ibexa\\Contracts\\Taxonomy\\Service\\TaxonomyServiceInterface\u003A\u003AloadEntryByIdentifier\u0028\u0029",
             "name": "loadEntryByIdentifier",
@@ -49380,6 +49415,11 @@ Search.appendIndex(
             "name": "Storage",
             "summary": "",
             "url": "namespaces/ibexa-contracts-connectorpayum-storage.html"
+        },                {
+            "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio\\Exception",
+            "name": "Exception",
+            "summary": "",
+            "url": "namespaces/ibexa-contracts-connectorqualifio-exception.html"
         },                {
             "fqsen": "\\Ibexa\\Contracts\\ConnectorQualifio",
             "name": "ConnectorQualifio",
